@@ -1,0 +1,6 @@
+Make a package.json according to the user choices:
+npm init
+Install modules called express.js:
+npm install express
+In package.json, the ^ at dependences version means it updates constantly
+Install the Postman API to use other HTML comands like POST, PUT, PATCH and DELETE
